@@ -29,4 +29,4 @@ For the TRRUST dataset, ASHD is evaluated using:
 * GO/pathway enrichment
 
 ## Declaration of generative AI and AI-assisted technologies in the writing process
-During the preparation of this work, the authors used \textit{Claude 4.5 Sonnet, Grammarly} for language editing, clarity improvement, and translation. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+During the preparation of this work, the authors used Claude 4.5 Sonnet, Grammarly for language editing, clarity improvement, and translation. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
