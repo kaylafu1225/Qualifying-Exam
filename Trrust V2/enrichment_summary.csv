@@ -1,0 +1,34 @@
+Cluster,Size,Representative Genes,Top KEGG Pathway,KEGG p-value,Top GO BP,GO p-value
+0,2154,"A2M, AATF, ABCA1, ABCA3, ABCB1",Pathways in cancer,1.61e-84,"positive regulation of transcription, DN",4.63e-149
+1,23,"ACTA2, CREB3L4, DLX5, DNAJC12, GATA6",Signaling pathways regulating pluripoten,2.00e-05,regulation of transcription by RNA polym,1.18e-08
+2,53,"ACLY, BAG1, BHLHE22, CA12, CALD1",Cocaine addiction,2.97e-04,regulation of transcription by RNA polym,1.20e-08
+3,48,"ADGRB1, AMHR2, APBB1, CDH6, CDKN2C",Transcriptional misregulation in cancer,6.35e-06,regulation of transcription by RNA polym,1.23e-09
+5,38,"ALOX5, ANG, ASAP2, BMP2, CAMP",TGF-beta signaling pathway,7.53e-04,"positive regulation of transcription, DN",4.86e-14
+7,12,"ACR, CD247, CD70, DUSP4, E4F1",Natural killer cell mediated cytotoxicit,5.79e-05,positive regulation of T cell activation,8.94e-04
+8,63,"ACKR3, ADAMTS5, ADIPOR2, AK4, ALKBH2",FoxO signaling pathway,7.77e-04,regulation of apoptotic process,7.02e-09
+9,6,"CSNK1A1, EN1, ERF, MACC1, NFAT5",Wnt signaling pathway,1.00e-03,regulation of transcription by RNA polym,8.86e-05
+10,9,"ACBD3, CDCA7L, LILRB1, LILRB2, LILRB4",B cell receptor signaling pathway,5.28e-06,immune response-inhibiting cell surface ,3.52e-09
+11,5,"BCL2L13, EIF3M, FAM57A, JUND, ZIC1",Legionellosis,1.42e-02,cytoplasmic translational initiation,4.74e-03
+12,23,"ANAPC4, ATXN7, CCNC, CDKN3, CELSR3",Ubiquitin mediated proteolysis,5.37e-04,negative regulation of androgen receptor,5.99e-07
+13,186,"ADAM10, ADAMTS1, ADGRE5, ADIPOR1, AFP",Pathways in cancer,4.35e-26,"positive regulation of transcription, DN",3.40e-24
+14,8,"ABL2, BTF3, EPHB2, HPSE2, MRVI1",Proteoglycans in cancer,2.81e-03,negative regulation of Ras protein signa,8.28e-05
+16,9,"ADAM12, DSG4, ERBB4, FOXN1, HOXC13",Endocytosis,1.57e-04,regulation of cardiac muscle cell prolif,3.76e-05
+17,11,"AIRE, ATP6V0E1, CHRNA1, CREB3L1, CREB5",Human papillomavirus infection,2.22e-05,L-aspartate transmembrane transport,2.75e-03
+18,19,"APOD, ASCL1, CHRNA3, CHRNA5, DEAF1",Viral carcinogenesis,1.56e-02,negative regulation of nucleic acid-temp,3.17e-06
+19,6,"BUB1B, ESCO2, PCYT1A, TALDO1, ZNF143",Phosphonate and phosphinate metabolism,1.80e-03,regulation of transcription by RNA polym,1.57e-05
+20,9,"GSC, NCBP1, SLBP, SMG6, SOX5",mRNA surveillance pathway,6.70e-08,mRNA-containing ribonucleoprotein comple,3.33e-10
+21,8,"AICDA, BMP7, DLG4, EXO1, HIP1R",Hippo signaling pathway,1.79e-03,positive regulation of brown fat cell di,1.27e-05
+22,5,"CDC5L, HOXB8, HOXC10, HOXC9, PLRG1",Spliceosome,5.51e-04,regulation of transcription by RNA polym,6.73e-04
+23,14,"ACADL, ACOX1, ACSL1, APOA4, BTAF1",PPAR signaling pathway,1.18e-09,long-chain fatty acid metabolic process,2.67e-07
+24,7,"COP1, FGFR4, IKZF1, PCBD1, RFWD2",Folate biosynthesis,9.07e-03,trivalent inorganic anion homeostasis,1.75e-03
+25,16,"AVP, CARTPT, CD59, CHGB, DGCR5",Neuroactive ligand-receptor interaction,5.24e-06,regulation of transmission of nerve impu,8.98e-06
+28,8,"ATRX, DENND4A, FGF9, FUBP3, HOXD9",Mannose type O-glycan biosynthesis,9.16e-03,regulation of gene expression,4.95e-04
+29,5,"ADARB2, DNAAF4, NEAT1, SFPQ, STAT6",Inflammatory bowel disease,1.61e-02,RNA processing,7.83e-04
+30,7,"DAXX, FOXF2, MT1E, MT1F, PSG7",Mineral absorption,1.84e-04,cellular response to copper ion,2.54e-08
+31,7,"BACH2, ELAVL1, LATS2, LIMD1, SERPINB2",Hippo signaling pathway,1.35e-03,positive regulation of nuclear-transcrib,1.10e-05
+32,39,"ACTN4, ADRB2, AXL, CDC73, CIAO1",Notch signaling pathway,5.91e-03,"negative regulation of transcription, DN",1.43e-07
+33,6,"BCAS2, ELK3, ESRRB, HIRA, PLB1",Vitamin digestion and absorption,7.18e-03,regulation of stem cell division,2.40e-03
+34,8,"ARX, CNP, GSC2, KDM5C, LMO1",Maturity onset diabetes of the young,1.04e-02,regulation of transcription by RNA polym,6.83e-04
+37,17,"ARF1, CBX8, CREG1, DES, E2F8",RNA polymerase,2.60e-02,regulation of transcription by RNA polym,1.15e-08
+38,6,"ACACB, ECD, GCGR, MYF6, TAF1B",Glucagon signaling pathway,4.19e-04,termination of RNA polymerase I transcri,3.25e-05
+39,5,"CBFA2T3, MTA2, RBBP7, TCF12, ZNF652",N/A,N/A,regulation of signal transduction by p53,5.95e-04
