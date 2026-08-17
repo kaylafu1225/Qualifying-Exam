@@ -19,14 +19,12 @@ The experiments compare ASHD with several baseline methods, including:
 * K-Means
 * Spectral Clustering
 * HyperGCN
-* Other graph and hypergraph clustering methods
 
 For the TRRUST dataset, ASHD is evaluated using:
 * Silhouette Score
-* Adjusted Rand Index (ARI)
-* Normalized Mutual Information (NMI)
+* Modularity
 * Hyperedge consistency
-* GO/pathway enrichment
+* GO/pathway enrichment (Using Enricchr)
 
 ## Declaration of generative AI and AI-assisted technologies in the writing process
 During the preparation of this work, the authors used Claude 4.5 Sonnet, Grammarly for language editing, clarity improvement, and translation. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
