@@ -8,10 +8,10 @@ This repository contains the code for **Adaptive Signed Hypergraph Diffusion (AS
 
 ## Datasets
 The experiments include several graph and hypergraph datasets:
-* TRRUST v2 
-* Cora 
-* Bitcoin 
-* MovieLens 100K 
+* TRRUST v2:https://www.grnpedia.org/trrust/
+* Cora:https://www.kaggle.com/datasets/mrkmakr/cora-dataset
+* Bitcoin:https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
+* MovieLens 100K:https://grouplens.org/datasets/movielens/
 Datasets are not included in this repository when redistribution is restricted. Please download the datasets from their original sources and place them in the corresponding directories.
 
 ## Experiments
